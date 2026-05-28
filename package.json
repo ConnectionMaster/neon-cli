@@ -35,7 +35,7 @@
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
     "nexpect": "^0.5.0",
-    "tmp": "0.0.28"
+    "tmp": "0.2.6"
   },
   "scripts": {
     "test": "npm run transpile && mocha",
